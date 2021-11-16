@@ -15,6 +15,11 @@ body
     font-size: 20px;
 }
 
+#input
+{
+    width: 30px;
+}
+
 .heading0
 {
     color: white;
@@ -29,7 +34,7 @@ body
 
 canvas
 {
-    background-color: yellow;
+    background-color: rgb(235, 235, 235);
     border-color: yellowgreen;
     box-shadow: 5px 5px 5px gray;
     margin: 5px;
